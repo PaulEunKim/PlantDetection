@@ -1,4 +1,5 @@
 # Plant Detection with ArcGIS + Python
+GIF Demo:
 ![Alt text](Becks_AdobeExpress.gif)
 ## Background
 
